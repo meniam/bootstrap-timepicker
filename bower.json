@@ -1,6 +1,6 @@
 {
     "name": "meniam-bootstrap3-timepicker",
-    "version": "0.2.8",
+    "version": "0.2.7",
     "description": "A timepicker component for Twitter Bootstrap 3.x fork from jdewit/bootstrap-timepicker",
     "repository": {
       "type": "git",
